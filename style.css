@@ -1,6 +1,9 @@
 .pixie-dust {
-  position:absolute; top:0; left:0; width:100%; height:100%;
+  position:absolute;
+  top:0; left:0;
+  width:100%; height:100%;
   pointer-events:none;
-  background: url('https://i.imgur.com/3MgH0Pd.png') repeat;
-  animation: dustFall 10s linear infinite;
+  background: url('https://www.transparenttextures.com/patterns/fairy-dust.png') repeat;
+  opacity: 0.3;
+  animation: dustFall 30s linear infinite;
 }
