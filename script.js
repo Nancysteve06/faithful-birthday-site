@@ -1,3 +1,3 @@
 window.onload = function () {
-  alert("🎉 Happy Birthday Fella! Make a wish and enjoy your magical day! 🎂🐇💜");
+  alert("🎉 Happy Birthday Fella! 🐇💜 Get ready for sweet fun, cake, and bunnies!");
 };
