@@ -1,27 +1,28 @@
 body {
   font-family: 'Segoe UI', sans-serif;
-  background: linear-gradient(to right, #b38bfc, #f6e1fc);
+  background: linear-gradient(to right, #eec8ff, #d4a6ff);
   text-align: center;
-  padding: 40px 10px;
+  padding: 30px;
   color: #4b0082;
   margin: 0;
 }
 
 h1 {
-  font-size: 2.2rem;
+  font-size: 2.4rem;
   margin-bottom: 20px;
 }
 
-.message {
+.blessing {
   font-size: 1.3rem;
-  margin-bottom: 30px;
+  margin: 20px;
+  line-height: 1.7;
 }
 
 .bunnies img {
-  width: 140px;
+  width: 150px;
   margin: 10px;
   border-radius: 15px;
-  animation: bounce 1.5s infinite ease-in-out;
+  animation: bounce 2s infinite ease-in-out;
 }
 
 @keyframes bounce {
@@ -31,6 +32,6 @@ h1 {
 
 iframe {
   border: none;
-  border-radius: 15px;
-  margin-top: 20px;
+  border-radius: 12px;
+  margin-top: 30px;
 }
